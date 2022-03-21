@@ -64,7 +64,7 @@ li a:hover {
 	}
 	main{
     background-color: #D05153;
-    width: 60%;
+    width: 100%;
     border: thin solid gray;
     top: 2px;
     right: 2px;
@@ -72,12 +72,7 @@ li a:hover {
     bottom: 0px;
     float: left;
 	}
-	aside{
-		   background-color:#d4cdcd;
-		   border:inset;
-		   float:right;
-		   width:39%;
-	}
+	
 section{
 
 }
